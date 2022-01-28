@@ -599,4 +599,9 @@ button {
     bottom: 0;
     transform: rotate(0);
   }
+  
+  .vmm-1,
+  .vmm-2 {
+    display: none;
+  }
 }
